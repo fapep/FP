@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "asset": "WARHOLPEP",
+    "asset_issuer_address": "1EWFR9dMzM2JtrXeqwVCY1LW6KMZ1iRhJ5",
+    "asset_owner_address": "1EWFR9dMzM2JtrXeqwVCY1LW6KMZ1iRhJ5",
+    "asset_supply": "100",
+    "asset_divisible": false,
+    "asset_locked": true,
+    "image": "https://i.imgur.com/5nAg5Ip.png",
+    "image_large": "https://i.imgur.com/8jgTl7d.gif",
+    "image_title": "WARHOLPEP"
+}
