@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "asset": "ASSET_NAME",
+    "asset_issuer_address": "THE ISSUER ADDRESS",
+    "asset_owner_address": "THE ISSUER ADDRESS",
+    "asset_supply": "ASSET SUPPLY",
+    "asset_divisible": false,
+    "asset_locked": true,
+    "image": "IMAGE PREVIEW LINK 48x48",
+    "image_large": "IMAGE FULL SIZE LINK",
+    "image_title": "ASSET_NAME"
+}
