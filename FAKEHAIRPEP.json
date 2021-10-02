@@ -1,9 +1,9 @@
 {
     "success": true,
-    "asset": “FAKEHAIRPEP”,
+    "asset": "FAKEHAIRPEP",
     "asset_issuer_address": "1AJ8Vqxhut7tENggf3iSUTRaX4qqziPCKT",
     "asset_owner_address": "1AJ8Vqxhut7tENggf3iSUTRaX4qqziPCKT",
-    "asset_supply": “100”,
+    "asset_supply": "100",
     "asset_divisible": false,
     "asset_locked": true,
     "image": "https://i.imgur.com/NUCYueF.png",
