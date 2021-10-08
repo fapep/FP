@@ -3,7 +3,7 @@ JSON data for NFT assets
 
 TO MINT:
 
-1. Have a FAKEAF token to burn
+1. Have a FAKEASF token to burn
 2. Hit "Create A Token" button on Freewallet, or Counterwallet
 3. Select NAMED TOKEN (0.5xcp fee)
 4. Enter token name
